@@ -2,7 +2,7 @@
 
 I've been bored recently so I decided to create my own website
 
-![](1 x 1.png)
+![mypic](/1 x 1.png)
 
 You can use the [editor on GitHub](https://github.com/KimWesley/KimWesley.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
