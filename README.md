@@ -3,7 +3,7 @@
 I've been bored recently so I decided to create my own website
 
 
-![mypic](/1 x 1.jpg)
+![Image](/1 x 1.jpg)
 
 You can use the [editor on GitHub](https://github.com/KimWesley/KimWesley.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
